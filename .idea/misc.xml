@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable/letter_a_background.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/letter_i_background.xml" value="0.491" />
         <entry key="app/src/main/res/drawable/letter_o_background.xml" value="0.491" />
+        <entry key="app/src/main/res/drawable/splash_background.xml" value="0.162" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_letter.xml" value="0.33" />
       </map>
